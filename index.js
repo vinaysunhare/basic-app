@@ -12,6 +12,12 @@ app.get("/", (req, res) => {
             id: 2,
             name: "vinay sunhare",
             age: 27
+        }, 
+
+           {
+            id: 2,
+            name: "aaditya sunhare",
+            age: 5
         }
     ]);
 });
