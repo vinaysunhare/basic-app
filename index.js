@@ -19,6 +19,12 @@ app.get("/", (req, res) => {
             name: "unique",
             age: 08
         }
+      {
+            id: 4,
+            name: "prem",
+            age: 40
+        }
+        
     ]);
 });
 
